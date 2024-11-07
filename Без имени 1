@@ -1,0 +1,41 @@
+<html>
+<title> Личный сайт наемного убийцы </title>
+<body bgcolor =#326ba8>
+<BR>
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 WIDTH="50%" bgcolor=#a82828>
+<FONT face=Arial size=+2 color=#dbd332> ПрайсЛист</FONT> 
+
+<TR bgcolor=#a82828>
+<TH width="40%">Услуга</TH>
+<TH width="30%">Прайс</TH>
+</TR>
+
+<TR>
+<Font color = white </font>
+<TD <Font color = white> Убийство </TD> </font>
+<TD align=center>10000 рублей</TD>
+
+</TR>
+
+<TR>
+<TD>Покушение</TD>
+<TD align=center>5000 рублей</TD>
+</TR>
+
+<TR>
+<TD>Запугивание </TD>
+<TD align=center>Пачка Кириешек </TD>
+
+<TR>
+<TD>Избиение </TD>
+<TD align=center>100 рублей </TD>
+
+</TR>
+</TR>
+</TABLE>
+<img src=file:///home/student/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BF%D0%BA%D1%83%201/sd/happy-cat-cat.gif>.
+<br>
+<a href = file:///home/student/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BF%D0%BA%D1%83%201/sd/asd>Назад</a>
+</BODY>
+</HTML>
